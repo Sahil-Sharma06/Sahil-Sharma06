@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-sharma06&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sharma06" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil-Sharma06?tab=repositories](https://github.com/Sahil-Sharma06?tab=repositories)
 

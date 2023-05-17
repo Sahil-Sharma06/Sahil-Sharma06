@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
+<h1 align="center">Hi 👋, This is Sahil Sharma</h1>
 <h3 align="center">A passionate Software Engineer and frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-sharma06&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sharma06" /> </p>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-sharma06&show_icons=true&locale=en" alt="sahil-sharma06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sharma06&" alt="sahil-sharma06" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sharma06&" alt="sahil-sharma06" /></p> -->

@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaa_ji06" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaa_ji06?logo=twitter&style=for-the-badge" alt="sharmaa_ji06" /></a> </p>
 
-- 🔭 I’m currently working on [BizBuddy](https://github.com/Sahil-Sharma06/BizzBuddy-s5)
+- 🔭 I’m currently working on [BizBuddy](https://github.com/Sahil-Sharma06/BizBuddy-s5)
 
 - 🌱 I’m currently learning **Backend Development**
 
